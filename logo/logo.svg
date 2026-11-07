@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="QuadNav logo">
+  <title>QuadNav</title>
+  <rect width="512" height="512" rx="104" fill="#0f1115"/>
+  <!-- the four quarters -->
+  <g fill="none" stroke="#3b4049" stroke-width="12">
+    <rect x="270" y="86" width="156" height="156" rx="22"/>
+    <rect x="86" y="270" width="156" height="156" rx="22"/>
+    <rect x="270" y="270" width="156" height="156" rx="22"/>
+  </g>
+  <!-- the picked quarter, with its drip -->
+  <path fill="#ffd400" d="M108 86h112a22 22 0 0 1 22 22v112a22 22 0 0 1-22 22h-33v26a14 14 0 0 1-28 0v-26h-51a22 22 0 0 1-22-22V108a22 22 0 0 1 22-22z"/>
+  <!-- the labels, only in the picked quarter -->
+  <g fill="#0f1115">
+    <rect x="112" y="118" width="46" height="24" rx="7"/>
+    <rect x="170" y="118" width="46" height="24" rx="7"/>
+    <rect x="112" y="156" width="46" height="24" rx="7"/>
+    <rect x="170" y="156" width="46" height="24" rx="7"/>
+  </g>
+</svg>

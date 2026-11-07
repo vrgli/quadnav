@@ -1,3 +1,5 @@
+<img src="logo/logo.svg" alt="QuadNav logo" width="96" height="96" align="left">
+
 # QuadNav — a VRG app
 
 Chrome extension. Keyboard navigation that picks a quarter of the screen first, then labels
@@ -15,6 +17,10 @@ Once the source is here:
    and pick the extension folder.
 
 Vanilla JS, zero dependencies, nothing to build. No account, no server, no telemetry.
+
+## Logo
+
+The QuadNav mark lives in [`logo/`](logo/): `logo.svg` (source), `logo-512.png` and `logo-128.png` (the Chrome extension icon). Near-black and VRG yellow, like everything else at vrg.li.
 
 ## Licence
 
